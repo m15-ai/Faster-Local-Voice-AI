@@ -1,0 +1,11 @@
+{
+  "volume": 65,
+  "mic_name": "",
+  "audio_output_device": "",
+  "model_name": "gemma3:1b",
+  "voice": "ryan-medium.onnx",
+  "mute_mic_during_playback": true,
+  "fade_duration_ms":70,
+  "history_length": 0,
+  "system_prompt": "You are a helpful middle-school voice assistant, good with kids."
+}

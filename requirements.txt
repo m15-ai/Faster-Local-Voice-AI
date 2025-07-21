@@ -1,0 +1,5 @@
+numpy==1.26.4
+websockets==12.0
+vosk==0.3.45
+jack-client==0.5.4
+soxr==0.3.7
