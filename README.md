@@ -4,6 +4,8 @@ A real-time, local voice AI system optimized to run on an Ubuntu laptop with 8Gb
 
 ![Server.py and Client.py screenshot](./Docs/Screen1.png)
 
+`Screenshot: Server.py (left) and Client.py (right)`
+
 ## Features
 - **Low Latency**: Sub-second end-to-end processing for speech-to-text (STT) and text-to-speech (TTS).
 - **Fully Local**: Runs entirely offline with no cloud dependencies.
