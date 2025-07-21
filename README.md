@@ -2,7 +2,7 @@
 
 A real-time, local voice AI system optimized to run on an Ubuntu laptop with 8Gb Ram and no GPU, achieving less than 1 second STT to TTS latency. It leverages a WebSocket client/server architecture, utilizes Gemma3:1b via Ollama for the language model, Vosk for offline speech-to-text, and Piper for text-to-speech. The system also employs JACK/PipeWire for low-latency I/O. Inspired by advancements from AssemblyAI, ElevenLabs, Fixie, and LiveKit, this project aims for full localization. The current architecture does not support interruption logic.
 
-![Server.py and Client.py screenshot](/home/m15/Python/Faster Voice AI/Docs/Screen1.png)
+![Server.py and Client.py screenshot](./Docs/Screen1.png)
 
 ## Features
 - **Low Latency**: Sub-second end-to-end processing for speech-to-text (STT) and text-to-speech (TTS).
